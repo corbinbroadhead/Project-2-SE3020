@@ -141,5 +141,5 @@ const styles = {
     marginBottom: 50
   },
   horizontalScroll: { marginBottom: 20, paddingHorizontal: 10 },
-  sectionTitle: { fontSize: 18, fontWeight: "bold", marginLeft: 10, marginVertical: 10 },
+  sectionTitle: { fontSize: 18, fontWeight: "bold", marginLeft: 10, marginTop: 10, marginBottom: 2 },
 };
